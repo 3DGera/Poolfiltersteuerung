@@ -1,7 +1,7 @@
 # Poolfiltersteuerung
 ioBroker Blockly Poolfilter Steuerung
 
-
+https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 
 # Funktionen:
 
