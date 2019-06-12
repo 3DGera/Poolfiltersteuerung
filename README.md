@@ -9,7 +9,7 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 
 *Es gibt zwei Einschaltzeiten (00:00-23:59) sowie zwei Laufzeiten (60) in Minuten die frei wählbar sind.
 
-*Wird die Filterpumpe per Hand eingeschalten nicht durch das Script schaltet die Pumpe nach 60min aus, diese Zeit kann auch geändert werden.
+*Wird die Filterpumpe per Hand eingeschalten nicht durch das Script schaltet die Pumpe nach z.B. 60min aus, diese Zeit kann auch geändert werden.
 
 *Es gibt eine Handeinschalt Funktion die die Pumpe einschaltet aber nicht mehr ausschaltet es wird nur stündlich gemeldet das die Pumpe x Stunden an ist.
 
