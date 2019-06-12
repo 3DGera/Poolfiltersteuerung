@@ -25,6 +25,8 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 
 *Sessonmodus einfügen
 
+*Vis aufbauen und bereitstellen
+
 
 
 # Blockly Importieren
