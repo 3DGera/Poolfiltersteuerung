@@ -20,7 +20,9 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 # To-Do-List
 
 *Erweiterung für pH und Chlor Dosierung
+
 *Urlaubsmodus einfügen
+
 *Sessonmodus einfügen
 
 
