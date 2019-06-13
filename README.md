@@ -34,3 +34,13 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 Unter Scripts erstellt ihr euch ein neues Blockly Script und öffnet dieses, oben rechts gibt es mehrere Icons klickt nun auf das zweite Icon "Blöcke importieren" fügt dort das Script ein und Importiert die Blöcke.
 
 Links oben im script befinden sich die OB-Variablen diese müssen angepasst werde. Man kann auch die Objekte automatisch erzeugen lassen, dafür den deaktivierten Block aktivieren und das Script ein mal starten. Danach sind die Objekte unter Objekte -> javascript.0.Pool zu finden.
+
+
+
+# Versionen
+
+* 0.0.8 - Bugfix, Einabu der Einschalt mit Zeitauswahl Funktion
+
+* 0.0.2 - Einabu der Hand-Ausschaltung
+
+* 0.0.1 - Script im Aufbau
