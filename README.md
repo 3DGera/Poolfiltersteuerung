@@ -39,7 +39,7 @@ Links oben im script befinden sich die OB-Variablen diese müssen angepasst werd
 
 # Versionen
 
-* 0.0.8 - Bugfix, Einabu der Einschalt mit Zeitauswahl Funktion
+* 0.0.8 - Bugfix, Einabu der Einschalt mit Zeitauswahl Funktion, Einabu Ein-/Ausschalten Benachrichtung per Telegram usw. (Baustein muss korrigiert werden)
 
 * 0.0.2 - Einabu der Hand-Ausschaltung
 
