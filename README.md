@@ -39,21 +39,11 @@ Links oben im script befinden sich die OB-Variablen diese müssen angepasst werd
 
 # Versionen
 
-* 0.0.8
-
--Bugfix
-
--Einschalt mit Zeitauswahl eingebaut
-
--Ein-/Ausschalten der Benachrichtung per Telegram, Pushover usw. (Baustein muss angepasst werden)
+*0.0.8 - Bugfix, Einschalt mit Zeitauswahl eingebaut, Ein-/Ausschalten der Benachrichtung per Telegram, Pushover usw. (Baustein muss angepasst werden)
 
 
-* 0.0.2 
-
-- Handein-Autoausschaltung eingebaut
+*0.0.2 - Handein-Autoausschaltung eingebaut
 
 
-* 0.0.1
-
-- erstes Script
+*0.0.1 - erstes Script
 
