@@ -28,7 +28,6 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 *Vis aufbauen und bereitstellen
 
 
-
 # Blockly Importieren
 
 Unter Scripts erstellt ihr euch ein neues Blockly Script und öffnet dieses, oben rechts gibt es mehrere Icons klickt nun auf das zweite Icon "Blöcke importieren" fügt dort das Script ein und Importiert die Blöcke.
@@ -36,8 +35,14 @@ Unter Scripts erstellt ihr euch ein neues Blockly Script und öffnet dieses, obe
 Links oben im script befinden sich die OB-Variablen diese müssen angepasst werde. Man kann auch die Objekte automatisch erzeugen lassen, dafür den deaktivierten Block aktivieren und das Script ein mal starten. Danach sind die Objekte unter Objekte -> javascript.0.Pool zu finden.
 
 
+# VIS Importieren
+
+Im VIS Editor ein neues View erstellen, diesen View auswählen und unter Widgets den Button Widgets Importieren anklicken und VIS Text eintragen.
+
 
 # Versionen
+
+*0.1 -mehrere kleine Bugsfixs, VIS Import, Einbau von Statustext im VIS, Bei einschaltung durch die Zeitauswahl wird die Uhrzeit der ausschaltung im Status des VIS angezeigt
 
 *0.0.8 - Bugfix, Einschalt mit Zeitauswahl eingebaut, Ein-/Ausschalten der Benachrichtung per Telegram, Pushover usw. (Baustein muss angepasst werden)
 
