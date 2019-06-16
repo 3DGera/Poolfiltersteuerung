@@ -42,6 +42,8 @@ Im VIS Editor ein neues View erstellen, diesen View auswählen und unter Widgets
 
 # Versionen
 
+*0.1.3 - Bugfix der ObjektID erstellung, ObjektIDs erhalten nun die richtige Formatierung.
+
 *0.1 -mehrere kleine Bugsfixs, VIS Import, Einbau von Statustext im VIS, Bei einschaltung durch die Zeitauswahl wird die Uhrzeit der ausschaltung im Status des VIS angezeigt
 
 *0.0.8 - Bugfix, Einschalt mit Zeitauswahl eingebaut, Ein-/Ausschalten der Benachrichtung per Telegram, Pushover usw. (Baustein muss angepasst werden)
