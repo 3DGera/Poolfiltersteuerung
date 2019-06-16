@@ -37,7 +37,7 @@ Links oben im script befinden sich die OB-Variablen diese müssen angepasst werd
 
 # VIS Importieren
 
-Im VIS Editor ein neues View erstellen, diesen View auswählen und unter Widgets den Button Widgets Importieren anklicken und VIS Text eintragen.
+Im VIS Editor unter Setup -> Projekt-Expot/import -> Import die ZIP importieren.
 
 
 # Versionen
