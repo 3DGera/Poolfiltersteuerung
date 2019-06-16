@@ -38,7 +38,7 @@
   <block type="comment" id="R|vY%wzi%Zz.h!Ln{vMA" x="-6362" y="-4262">
     <field name="COMMENT">Aktivieren bei Automatischer ObjektID erzeugung</field>
     <next>
-      <block type="controls_repeat_ext" id="P;r9bfPa{*^^b%7j[#(y">
+      <block type="controls_repeat_ext" id="P;r9bfPa{*^^b%7j[#(y" disabled="true">
         <value name="TIMES">
           <shadow type="math_number" id="F},UkQ[eQIj1{92pm|;M">
             <field name="NUM">1</field>
@@ -200,7 +200,7 @@
       </block>
     </next>
   </block>
-  <block type="procedures_defcustomnoreturn" id="9W?^gw9htz|81?i,eR+:" x="-6362" y="-4138">
+  <block type="procedures_defcustomnoreturn" id="9W?^gw9htz|81?i,eR+:" collapsed="true" x="-6362" y="-4138">
     <mutation statements="false"></mutation>
     <field name="NAME">Datenpunkte erstellen</field>
     <field name="SCRIPT">Y3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLkF1dG9tYXRpaycsIDAsIHtuYW1lOiAnUG9vbC5GaWx0ZXJhbmxhZ2UuQXV0b21hdGlrJyx0eXBlOiAnbnVtYmVyJ30pOw0KY3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLkVpbm1pdFplaXRhdXN3YWhsJywgZmFsc2UsIHtuYW1lOiAnUG9vbC5GaWx0ZXJhbmxhZ2UuRWlubWl0WmVpdGF1c3dhaGwnLHR5cGU6ICdib29sZWFuJ30pOw0KY3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLkVpbm1pdFplaXRhdXN3YWhsWmVpdCcsIDEwLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLkVpbm1pdFplaXRhdXN3YWhsWmVpdCcsdHlwZTogJ251bWJlcicsdW5pdDogJ01pbnV0ZW4nfSk7DQpjcmVhdGVTdGF0ZSgnUG9vbC5GaWx0ZXJhbmxhZ2UuSGFuZGF1dG9tYXRpaycsIGZhbHNlLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLkhhbmRhdXRvbWF0aWsnLHR5cGU6ICdib29sZWFuJ30pOw0KY3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLkhhbmRhdXRvbWF0aWt6ZWl0JywgNjAsIHtuYW1lOiAnUG9vbC5GaWx0ZXJhbmxhZ2UuSGFuZGF1dG9tYXRpa3plaXQnLHR5cGU6ICdudW1iZXInLHVuaXQ6ICdNaW51dGVuJ30pOw0KY3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLkxhdWZ6ZWl0MScsIDYwLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLkxhdWZ6ZWl0MScsdHlwZTogJ251bWJlcicsdW5pdDogJ01pbnV0ZW4nfSk7DQpjcmVhdGVTdGF0ZSgnUG9vbC5GaWx0ZXJhbmxhZ2UuTGF1ZnplaXQyJywgMTIwLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLkxhdWZ6ZWl0MicsdHlwZTogJ251bWJlcicsdW5pdDogJ01pbnV0ZW4nfSk7DQpjcmVhdGVTdGF0ZSgnUG9vbC5GaWx0ZXJhbmxhZ2UuU3RhcnR6ZWl0MScsICIwMDowMCIsIHtuYW1lOiAnUG9vbC5GaWx0ZXJhbmxhZ2UuU3RhcnR6ZWl0MScsdHlwZTogJ3N0cmluZycsdW5pdDogJ1Vocid9KTsNCmNyZWF0ZVN0YXRlKCdQb29sLkZpbHRlcmFubGFnZS5TdGFydHplaXQyJywgIjAwOjAwIiwge25hbWU6ICdQb29sLkZpbHRlcmFubGFnZS5TdGFydHplaXQyJyx0eXBlOiAnc3RyaW5nJyx1bml0OiAnVWhyJ30pOw0KY3JlYXRlU3RhdGUoJ1Bvb2wuRmlsdGVyYW5sYWdlLlN0YXR1c3RleHQnLCAwLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLlN0YXR1c3RleHQnLHR5cGU6ICdudW1iZXInfSk7DQpjcmVhdGVTdGF0ZSgnUG9vbC5GaWx0ZXJhbmxhZ2UuVWhyemVpdCcsIDAsIHtuYW1lOiAnUG9vbC5GaWx0ZXJhbmxhZ2UuVWhyemVpdCcsdHlwZTogJ3N0cmluZycsdW5pdDogJ1Vocid9KTsNCmNyZWF0ZVN0YXRlKCdQb29sLk1lbGR1bmcnLCBmYWxzZSwge25hbWU6ICdQb29sLkZpbHRlcmFubGFnZS5NZWxkdW5nJyx0eXBlOiAnYm9vbGVhbid9KTsNCmNyZWF0ZVN0YXRlKCdQb29sLlBvb2xzZXNzb24nLCBmYWxzZSwge25hbWU6ICdQb29sLkZpbHRlcmFubGFnZS5Qb29sc2Vzc29uJyx0eXBlOiAnYm9vbGVhbid9KTsNCmNyZWF0ZVN0YXRlKCdQb29sLlVybGF1YicsIGZhbHNlLCB7bmFtZTogJ1Bvb2wuRmlsdGVyYW5sYWdlLlVybGF1YicsdHlwZTogJ2Jvb2xlYW4nfSk7</field>
