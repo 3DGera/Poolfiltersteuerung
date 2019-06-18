@@ -25,8 +25,6 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 
 *Sessonmodus einfügen
 
-*Vis aufbauen und bereitstellen
-
 
 # Blockly Importieren
 
@@ -42,15 +40,15 @@ Im VIS Editor unter Setup -> Projekt-Expot/import -> Import die ZIP importieren.
 
 # Versionen
 
+*0.2.2 - Bugfix, Meldung "Zeitauswahl abgebrochen" bei automatischer ausschaltung entfernt.
+
 *0.1.3 - Bugfix der ObjektID erstellung, ObjektIDs erhalten nun die richtige Formatierung.
 
 *0.1 -mehrere kleine Bugsfixs, VIS Import, Einbau von Statustext im VIS, Bei einschaltung durch die Zeitauswahl wird die Uhrzeit der ausschaltung im Status des VIS angezeigt
 
 *0.0.8 - Bugfix, Einschalt mit Zeitauswahl eingebaut, Ein-/Ausschalten der Benachrichtung per Telegram, Pushover usw. (Baustein muss angepasst werden)
 
-
 *0.0.2 - Handein-Autoausschaltung eingebaut
-
 
 *0.0.1 - erstes Script
 
