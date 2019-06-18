@@ -40,7 +40,7 @@ Im VIS Editor unter Setup -> Projekt-Expot/import -> Import die ZIP importieren.
 
 # Versionen
 
-*0.2.2 - Bugfix, Meldung "Zeitauswahl abgebrochen" bei automatischer ausschaltung entfernt.
+*0.2 - Bugfix, Meldung "Zeitauswahl abgebrochen" bei automatischer ausschaltung entfernt.
 
 *0.1.3 - Bugfix der ObjektID erstellung, ObjektIDs erhalten nun die richtige Formatierung.
 
