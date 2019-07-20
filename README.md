@@ -35,10 +35,12 @@ Links oben im script befinden sich die OB-Variablen diese müssen angepasst werd
 
 # VIS Importieren
 
-Im VIS Editor unter Setup -> Projekt-Expot/import -> Import die ZIP importieren.
+die ZIP Datei einfach über Skripts -> oben links auf die 3 Punkte klicken -> Skripts importieren und ZIP Datei in das Fenster hineinziehen. Schon wird das Script unter "common -> Pool -> Filterpumpe" eingetragen.
 
 
 # Versionen
+
+*0.3 - Script erkennt ob Steuerung erreichbar ist. Wenn nicht wird eine Meldung ausgegeben. Filterung wird nicht aktiviert.
 
 *0.2 - Bugfix, Meldung "Zeitauswahl abgebrochen" bei automatischer ausschaltung entfernt.
 
