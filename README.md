@@ -28,19 +28,19 @@ https://forum.iobroker.net/topic/23093/vorlage-poolfilterpumpensteuerung
 
 # Blockly Importieren
 
-Unter Scripts erstellt ihr euch ein neues Blockly Script und öffnet dieses, oben rechts gibt es mehrere Icons klickt nun auf das zweite Icon "Blöcke importieren" fügt dort das Script ein und Importiert die Blöcke.
+die ZIP Datei einfach über Skripts -> oben links auf die 3 Punkte klicken -> Skripts importieren und ZIP Datei in das Fenster hineinziehen. Schon wird das Script unter "common -> Pool -> Filterpumpe" eingetragen.
 
-Links oben im script befinden sich die OB-Variablen diese müssen angepasst werde. Man kann auch die Objekte automatisch erzeugen lassen, dafür den deaktivierten Block aktivieren und das Script ein mal starten. Danach sind die Objekte unter Objekte -> javascript.0.Pool zu finden.
+Links oben im Script befinden sich die OB-Variablen diese müssen angepasst werde. Man kann auch die Objekte automatisch erzeugen lassen, dafür den deaktivierten Block aktivieren und das Script ein mal starten. Danach sind die Objekte unter Objekte -> javascript.0.Pool zu finden.
 
 
 # VIS Importieren
 
-die ZIP Datei einfach über Skripts -> oben links auf die 3 Punkte klicken -> Skripts importieren und ZIP Datei in das Fenster hineinziehen. Schon wird das Script unter "common -> Pool -> Filterpumpe" eingetragen.
+
 
 
 # Versionen
 
-*0.3 - Script erkennt ob Steuerung erreichbar ist. Wenn nicht wird eine Meldung ausgegeben. Filterung wird nicht aktiviert.
+*0.3 - Script erkennt ob Steuerung erreichbar ist, wenn nicht wird eine Meldung ausgegeben. Filterung wird nicht aktiviert.
 
 *0.2 - Bugfix, Meldung "Zeitauswahl abgebrochen" bei automatischer ausschaltung entfernt.
 
