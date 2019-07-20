@@ -35,7 +35,7 @@ Links oben im Script befinden sich die OB-Variablen diese müssen angepasst werd
 
 # VIS Importieren
 
-
+Im VIS-Editor aus Setup -> Projekt-Export/import -> Import -> PoolVIS.zip in das Fenster ziehen und Importieren.
 
 
 # Versionen
